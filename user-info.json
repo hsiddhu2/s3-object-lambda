@@ -1,0 +1,21 @@
+{
+    "userName": "john_doe",
+    "ssn": "123-456-6789",
+    "dob": "1990-01-01",
+    "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+    },
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "555-1234"
+        },
+        {
+            "type": "work",
+            "number": "555-5678"
+        }
+    ]
+}
